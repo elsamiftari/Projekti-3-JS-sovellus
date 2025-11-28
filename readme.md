@@ -1,8 +1,8 @@
 Projektin nimi: Kissa- ja koirakuvien selaaja 
 Tekijät: Elsa Miftari
 
-Verkkolinkit:
-Julkaistuun sovelluks: 
+Verkkolinkit: https://github.com/elsamiftari/Projekti-3-JS-sovellus/blob/main/readme.md
+Julkaistuun sovelluks: https://project3js.netlify.app/
 Videoesittely: 
 
 Työn jakautuminen
