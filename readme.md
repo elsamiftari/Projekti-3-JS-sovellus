@@ -39,7 +39,9 @@ Tunnetut virheet/bugit
 
 
 Kuvakaappaukset:
+
 <img width="508" height="435" alt="{76C4069F-FD8F-4262-929E-07B4FCE2EB4D}" src="https://github.com/user-attachments/assets/1db35ae7-5c25-43bb-b26a-93ecc2d6a04a" />
+
 <img width="501" height="424" alt="{1623F122-B601-4D55-AB46-90C5E998DB26}" src="https://github.com/user-attachments/assets/4fd13c02-c715-47f9-ab36-a832b0aac8e3" />
 
 Teknologiat
