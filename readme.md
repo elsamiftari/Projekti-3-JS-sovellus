@@ -3,7 +3,7 @@ Tekijät: Elsa Miftari
 
 Verkkolinkit: https://github.com/elsamiftari/Projekti-3-JS-sovellus/blob/main/readme.md
 Julkaistuun sovelluks: https://project3js.netlify.app/
-Videoesittely: 
+Videoesittely: https://youtu.be/HhiWL_KCl0Q
 
 Työn jakautuminen
 - Tein kaiken itse.
